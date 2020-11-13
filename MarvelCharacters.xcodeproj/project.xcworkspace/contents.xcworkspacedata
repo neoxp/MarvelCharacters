@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/hackermaster/Desktop/Proba OpenBank/MarvelCharacters-master/MarvelCharacters.xcodeproj">
+      location = "self:MarvelCharacters.xcodeproj">
    </FileRef>
 </Workspace>
