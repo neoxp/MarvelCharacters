@@ -2,8 +2,8 @@
 //  DetailViewTests.swift
 //  MarvelCharactersTests
 //
-//  Created by Cícero Duarte da Silva on 11/07/20.
-//  Copyright © 2020 ciceroduarte. All rights reserved.
+//  Created by Emili   on 13/11/2020.
+//  Copyright © 2020 appdevelopment.es All rights reserved.
 //
 
 import XCTest
