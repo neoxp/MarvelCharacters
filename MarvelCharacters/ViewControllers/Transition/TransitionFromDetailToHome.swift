@@ -2,8 +2,8 @@
 //  TransitionFromDetailToHome.swift
 //  MarvelCharacters
 //
-//  Created by Cicero on 25/02/17.
-//  Copyright © 2017 ciceroduarte. All rights reserved.
+//  Created by Emili   on 13/11/2020.
+//  Copyright © 2020 appdevelopment.es All rights reserved.
 //
 
 import Foundation

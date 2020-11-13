@@ -2,8 +2,8 @@
 //  UILabelExtension.swift
 //  POCView
 //
-//  Created by Cicero on 25/10/16.
-//  Copyright © 2016 ciceroduarte. All rights reserved.
+//  Created by Emili   on 13/11/2020.
+//  Copyright © 2020 appdevelopment.es All rights reserved.
 //
 
 import UIKit
